@@ -1,5 +1,5 @@
 {
-    "name": "kouz/laravel-airbrake",
+    "name": "tgferox/laravel-airbrake",
     "type": "library",
     "description": "Laravel service provider for Airbrake https://github.com/airbrake/phpbrake",
     "keywords": ["airbrake", "laravel"],
